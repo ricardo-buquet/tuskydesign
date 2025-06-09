@@ -19,6 +19,9 @@
       "cache": true
     }
   },
+  "release": {
+    "projects": ["packages/*"]
+  },
   "plugins": [
     {
       "plugin": "@nx/js/typescript",
